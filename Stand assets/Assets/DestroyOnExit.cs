@@ -2,9 +2,11 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Events;
 
 public class DestroyOnExit : MonoBehaviour
 {
+    public UnityEvent onExit;
     // Start is called before the first frame update
     void Start()
     {
@@ -23,6 +25,7 @@ public class DestroyOnExit : MonoBehaviour
         {
             other.GetComponentInChildren<ParticleSystem>().Play();
             Destroy(other.gameObject);
+            onExit?.Invoke();
             
         }
     }

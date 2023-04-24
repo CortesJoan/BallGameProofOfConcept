@@ -1,6 +1,6 @@
 # BallGameProofOfConcept
 
-A game made with Unity where you have a ball inside a box and you have to collect all the coins in the shortest time possible. Created on 2021-2-14.
+A game made with Unity where you have a ball inside a box and you have to collect all the coins in the shortest time possible. Created on 2021-2-14. The build of the game is located on the release page
 
 ## Gameplay 
 

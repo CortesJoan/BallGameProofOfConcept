@@ -4,4 +4,4 @@ A game made with Unity where you have a ball inside a box and you have to collec
 
 ## Gameplay 
 
-![video](https://drive.google.com/file/d/1exgkxhlMy7L0UBNOZ0o4TlPHBcrYFMH5/view?usp=sharing))
+![](https://drive.google.com/file/d/1exgkxhlMy7L0UBNOZ0o4TlPHBcrYFMH5/view?usp=sharing)
